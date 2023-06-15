@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmSignUp));
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -137,6 +138,8 @@
             // 
             // dtpBirthDay
             // 
+            this.dtpBirthDay.CustomFormat = "dd/MM/yyyy";
+            this.dtpBirthDay.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dtpBirthDay.Location = new System.Drawing.Point(253, 56);
             this.dtpBirthDay.Name = "dtpBirthDay";
             this.dtpBirthDay.Size = new System.Drawing.Size(302, 30);
@@ -290,6 +293,7 @@
             this.ClientSize = new System.Drawing.Size(693, 604);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmSignUp";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormSignUp";

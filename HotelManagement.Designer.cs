@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(HotelManagement));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.quảnLýThuêPhòngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thôngTinNhânViênToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -82,20 +83,20 @@
             this.thôngTinNhânViênToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1225, 30);
+            this.menuStrip1.Size = new System.Drawing.Size(1225, 28);
             this.menuStrip1.TabIndex = 3;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // quảnLýThuêPhòngToolStripMenuItem
             // 
             this.quảnLýThuêPhòngToolStripMenuItem.Name = "quảnLýThuêPhòngToolStripMenuItem";
-            this.quảnLýThuêPhòngToolStripMenuItem.Size = new System.Drawing.Size(120, 26);
+            this.quảnLýThuêPhòngToolStripMenuItem.Size = new System.Drawing.Size(120, 24);
             this.quảnLýThuêPhòngToolStripMenuItem.Text = "Quản lý phòng";
             // 
             // thôngTinNhânViênToolStripMenuItem
             // 
             this.thôngTinNhânViênToolStripMenuItem.Name = "thôngTinNhânViênToolStripMenuItem";
-            this.thôngTinNhânViênToolStripMenuItem.Size = new System.Drawing.Size(161, 26);
+            this.thôngTinNhânViênToolStripMenuItem.Size = new System.Drawing.Size(161, 24);
             this.thôngTinNhânViênToolStripMenuItem.Text = "Thông Tin Nhân Viên";
             this.thôngTinNhânViênToolStripMenuItem.Click += new System.EventHandler(this.thôngTinNhânViênToolStripMenuItem_Click);
             // 
@@ -587,10 +588,11 @@
             this.ClientSize = new System.Drawing.Size(1225, 529);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.menuStrip1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "HotelManagement";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Quản Lý Khách Sạn";
+            this.Text = "Hệ Thống Quản Lý Khách Sạn";
             this.Load += new System.EventHandler(this.HotelManagement_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

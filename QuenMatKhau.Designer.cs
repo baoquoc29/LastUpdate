@@ -28,11 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(QuenMatKhau));
             this.label3 = new System.Windows.Forms.Label();
             this.btn_RePass = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.txtRePassWord = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label3
@@ -58,9 +60,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(118, 226);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(186, 16);
+            this.label2.Size = new System.Drawing.Size(135, 16);
             this.label2.TabIndex = 7;
-            this.label2.Text = "Thông Tin Tài Khoản Của Bạn";
+            this.label2.Text = "Thông Tin Tài Khoản ";
             // 
             // txtRePassWord
             // 
@@ -78,18 +80,31 @@
             this.label1.TabIndex = 5;
             this.label1.Text = "Số Điện Thoại Đăng Kí";
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Times New Roman", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label4.Location = new System.Drawing.Point(275, 37);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(200, 33);
+            this.label4.TabIndex = 10;
+            this.label4.Text = "Quên Mật Khẩu ";
+            // 
             // QuenMatKhau
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.btn_RePass);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtRePassWord);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "QuenMatKhau";
-            this.Text = "QuenMatKhau";
+            this.Text = "Quên Mật Khẩu";
             this.Load += new System.EventHandler(this.QuenMatKhau_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -103,5 +118,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtRePassWord;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label4;
     }
 }

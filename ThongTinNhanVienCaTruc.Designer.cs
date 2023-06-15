@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ThongTinNhanVienCaTruc));
             this.labelname = new System.Windows.Forms.Label();
             this.labelns = new System.Windows.Forms.Label();
             this.labelsdt = new System.Windows.Forms.Label();
@@ -116,9 +117,9 @@
             // 
             this.button1.BackColor = System.Drawing.SystemColors.HighlightText;
             this.button1.ForeColor = System.Drawing.SystemColors.Desktop;
-            this.button1.Location = new System.Drawing.Point(282, 637);
+            this.button1.Location = new System.Drawing.Point(303, 632);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(153, 38);
+            this.button1.Size = new System.Drawing.Size(165, 38);
             this.button1.TabIndex = 8;
             this.button1.Text = "Chỉnh Sửa Thông Tin";
             this.button1.UseVisualStyleBackColor = false;
@@ -241,6 +242,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.labelname);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "ThongTinNhanVienCaTruc";
             this.Text = "Thông Tin Nhân Viên ";
             this.Load += new System.EventHandler(this.ThongTinNhanVienCaTruc_Load);

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmTraPhong));
             this.label73 = new System.Windows.Forms.Label();
             this.dgvBangDichVu = new System.Windows.Forms.DataGridView();
             this.txtTongTien = new System.Windows.Forms.TextBox();
@@ -709,6 +710,7 @@
             this.Controls.Add(this.label45);
             this.Controls.Add(this.label73);
             this.Controls.Add(this.dgvBangDichVu);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FrmTraPhong";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Thanh Toán";
