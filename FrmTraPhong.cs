@@ -113,5 +113,10 @@ namespace Hotel_Management_System_Winforrm
                 btnInHoaDon.Enabled = true;
             }
         }
+
+        private void btnThoát_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

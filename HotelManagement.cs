@@ -14,7 +14,9 @@ namespace Hotel_Management_System_Winforrm
 {
     public partial class HotelManagement : Form
     {
-      
+
+        private List<Button> list;
+
         public HotelManagement()
         {
             InitializeComponent();
@@ -82,7 +84,7 @@ namespace Hotel_Management_System_Winforrm
             return trangthai;
         }
 
-        private void HotelManagement_Load(object sender, EventArgs e)
+        private void load()
         {
             if (TrangThai(btnP101.Text) == "Co nguoi o") btnP101.BackColor = Color.Red;
             if (TrangThai(btnP102.Text) == "Co nguoi o") btnP102.BackColor = Color.Red;
@@ -108,6 +110,36 @@ namespace Hotel_Management_System_Winforrm
             if (TrangThai(btnP306.Text) == "Co nguoi o") btnP306.BackColor = Color.Red;
             if (TrangThai(btnP307.Text) == "Co nguoi o") btnP307.BackColor = Color.Red;
             if (TrangThai(btnP308.Text) == "Co nguoi o") btnP308.BackColor = Color.Red;
+        }
+
+        private void HotelManagement_Load(object sender, EventArgs e)
+        {
+            list = new List<Button>();
+
+            list.Add(btnP101);
+            list.Add(btnP101);
+            list.Add(btnP101);
+            list.Add(btnP105);
+            list.Add(btnP106);
+            list.Add(btnP107);
+            list.Add(btnP108);
+
+            list.Add(btnP201);
+            list.Add(btnP201);
+            list.Add(btnP201);
+            list.Add(btnP205);
+            list.Add(btnP206);
+            list.Add(btnP207);
+            list.Add(btnP208);
+
+            list.Add(btnP301);
+            list.Add(btnP301);
+            list.Add(btnP301);
+            list.Add(btnP305);
+            list.Add(btnP306);
+            list.Add(btnP307);
+            list.Add(btnP308);
+            load();
         }
 
         private void đặtDịchVụToolStripMenuItem_Click(object sender, EventArgs e)
@@ -172,6 +204,22 @@ namespace Hotel_Management_System_Winforrm
         {
             ThongTinNhanVienCaTruc tt = new ThongTinNhanVienCaTruc();
             tt.Show();
+        }
+
+        private void chuyểnPhòngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Button btnPhong = contextMenuStrip1.SourceControl as Button;
+            string tenphong = btnPhong.Text;
+            if(btnPhong.BackColor == Color.Red)
+            {
+                FrmChuyenPhong1 frmChuyenPhong1 = new FrmChuyenPhong1(tenphong, btnPhong, list);
+                frmChuyenPhong1.Text = tenphong;
+                frmChuyenPhong1.Show();
+            }
+            else
+            {
+                MessageBox.Show("Phong trong!");
+            }
         }
     }
 }

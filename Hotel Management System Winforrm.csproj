@@ -90,6 +90,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Account.cs" />
+    <Compile Include="ChuyenPhong.cs" />
     <Compile Include="Connection.cs" />
     <Compile Include="DataSet1.cs">
       <DependentUpon>DataSet1.xsd</DependentUpon>
@@ -101,6 +102,12 @@
     </Compile>
     <Compile Include="DatPhong.cs" />
     <Compile Include="Dichvu.cs" />
+    <Compile Include="FrmChuyenPhong1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmChuyenPhong1.Designer.cs">
+      <DependentUpon>FrmChuyenPhong1.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmDatPhong.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -185,6 +192,9 @@
     </Compile>
     <Compile Include="ThuePhong.cs" />
     <Compile Include="TraPhong.cs" />
+    <EmbeddedResource Include="FrmChuyenPhong1.resx">
+      <DependentUpon>FrmChuyenPhong1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmDatPhong.resx">
       <DependentUpon>FrmDatPhong.cs</DependentUpon>
     </EmbeddedResource>

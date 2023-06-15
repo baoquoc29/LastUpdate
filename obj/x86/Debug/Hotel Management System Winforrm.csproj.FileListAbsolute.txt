@@ -168,3 +168,87 @@ C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\H
 C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel Management System Winforrm.pdb
 C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmDoiMatKhau.resources
 C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.ThongTinNhanVienCaTruc.resources
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\FormSignUp.Designer.cs
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\frmLogin.Designer.cs
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Hotel Management System Winforrm.exe.config
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Hotel Management System Winforrm.exe
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Hotel Management System Winforrm.pdb
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\stdole.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel Management System Winforrm.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmDatPhong.resources
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmDoiMatKhau.resources
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmLogin.resources
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmSignUp.resources
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmThongTinDichVu.resources
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmThuePhong.resources
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmTraPhong.resources
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel_Management_System_Winforrm.HotelManagement.resources
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel_Management_System_Winforrm.InHoaDon.resources
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel_Management_System_Winforrm.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel_Management_System_Winforrm.QuenMatKhau.resources
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel_Management_System_Winforrm.ThongTinNhanVienCaTruc.resources
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel Management System Winforrm.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel Management System Winforrm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel Management System Winforrm.csproj.CopyComplete
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel Management System Winforrm.exe
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel Management System Winforrm.pdb
+C:\Users\Admin\Desktop\C#\LastUpdate\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmChuyenPhong1.resources
