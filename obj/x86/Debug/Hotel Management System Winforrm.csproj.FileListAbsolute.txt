@@ -1,0 +1,170 @@
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\FormSignUp.Designer.cs
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Hotel Management System Winforrm.exe.config
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Hotel Management System Winforrm.exe
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Hotel Management System Winforrm.pdb
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel Management System Winforrm.csprojAssemblyReference.cache
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmLogin.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmSignUp.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.Properties.Resources.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel Management System Winforrm.csproj.GenerateResource.cache
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel Management System Winforrm.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel Management System Winforrm.exe
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel Management System Winforrm.pdb
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\frmLogin.Designer.cs
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.HotelManagement.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmDatPhong.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmQuanLyKhachHang.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmQuanLyLoaiPhong.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmQuanLyNhanVien.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmQuanLyPhong.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmQuanLyPhuThu.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.txtSoLuong_XoaSP.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmQuanLyTaiKhoan.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmThuePhong.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmTraPhong.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmThongTinDichVu.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\EnvDTE.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\stdole.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\Microsoft.MSXML.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.InHoaDon.resources
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel Management System Winforrm.csproj.CopyComplete
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\RdlCompile.cache
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\RdlCompile.compiled
+D:\Visual Studio 2019\File C#\Hotel Management System Winforrm\obj\x86\Debug\Hotel_Management_System_Winforrm.QuenMatKhau.resources
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\frmLogin.Designer.cs
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\FormSignUp.Designer.cs
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Hotel Management System Winforrm.exe.config
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Hotel Management System Winforrm.exe
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Hotel Management System Winforrm.pdb
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\stdole.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\Microsoft.MSXML.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel Management System Winforrm.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel Management System Winforrm.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmDatPhong.resources
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmLogin.resources
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmSignUp.resources
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmThongTinDichVu.resources
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmThuePhong.resources
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmTraPhong.resources
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.HotelManagement.resources
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.InHoaDon.resources
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.Properties.Resources.resources
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.QuenMatKhau.resources
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel Management System Winforrm.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel Management System Winforrm.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel Management System Winforrm.csproj.CopyComplete
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel Management System Winforrm.exe
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel Management System Winforrm.pdb
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.FrmDoiMatKhau.resources
+C:\Users\admin\Desktop\LASTUPDATE\Hotel-Managament-System-master\obj\x86\Debug\Hotel_Management_System_Winforrm.ThongTinNhanVienCaTruc.resources
